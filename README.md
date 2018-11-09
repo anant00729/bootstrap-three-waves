@@ -1,3 +1,3 @@
 # bootstrap-three-waves
 
-<img width="1432" alt="screenshot 2018-11-10 at 12 10 46 am" src="https://user-images.githubusercontent.com/20675885/48281639-281f8780-e47d-11e8-8fd3-a328db4377cd.png">
+<img width="1426" alt="screenshot 2018-11-10 at 12 13 49 am" src="https://user-images.githubusercontent.com/20675885/48281746-8f3d3c00-e47d-11e8-8fa8-28e97839e6ca.png">
